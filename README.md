@@ -46,4 +46,4 @@
 </div>
 <hr>
 
-<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
+<a href="https://github.com/moali007/CodeNotes/main/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/moali007/CodeNotes/main/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/moali007/CodeNotes/main/github-user-contribution.svg" style="max-width:100%;"></a>
